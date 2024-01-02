@@ -20,12 +20,12 @@ Back-end: PHP
 Database: XAMPP
 
 
-## SETUP XAMPP
+# SETUP XAMPP
 
 Step 1: diy or learn from youtube
 
 
-### SETUP PROJECT
+# SETUP PROJECT
 
 Step 1: Download github project: "https://github.com/HungDongne/ebook-store"
 
